@@ -1,0 +1,5 @@
+build/
+# Test signals, renders and screenshots: all made by lofitool and NightShift (see README)
+testdata/
+*.png
+*.settings
