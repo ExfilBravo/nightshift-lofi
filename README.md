@@ -1,7 +1,7 @@
 # Nightshift Lofi
 
 **Download:** these plugins come with NightShift's free installers for Windows and Mac, on the
-[NightShift releases page](https://github.com/michaeldedmondson-design/nightshift/releases/latest).
+[NightShift releases page](https://github.com/ExfilBravo/nightshift/releases/latest).
 Free software under the GNU GPL v3 or later ([LICENSE](LICENSE)).
 
 Four lofi effect plugins (VST3, Windows) in the Nightshift family, built on JUCE under the GPLv3:
